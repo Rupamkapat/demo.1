@@ -1,2 +1,2 @@
 # demo.1
-demo repo of Git &amp; GitHub
+demo repo of Git &amp; GitHub.
